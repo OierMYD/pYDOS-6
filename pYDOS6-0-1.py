@@ -9,7 +9,7 @@ logo = """
 |        |  Y  |          Version               |
 |        |-----|-----       6.0                 |
 |              |            Built on            |
-|    pY-DOS    |    New Technology  2.0.1022    |
+|    pY-DOS    |    New Technology  1.1.1022    |
 |-----------------------------------------------|
 """
 logoData = """
@@ -88,7 +88,7 @@ def dos():
             print("Pythonix pY-DOS 6")
             print("Standard Edition(Free)")
             print("Pythonix Core:")
-            print("Pythonix Version 2.0.1012")
+            print("Pythonix Version 1.1.1012")
             sleep(2)
             c()
             pass
